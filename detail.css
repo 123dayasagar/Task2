@@ -1,0 +1,61 @@
+nav a{
+	display: inline-block;
+	font-size: 25px;
+    font-style: italic;
+   
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+	margin: 5px;
+
+}
+header{
+	background-color: yellow;
+}
+nav a:hover{
+	background: green;
+
+	color: orange;
+
+}
+
+body {
+	
+	background-color: coral !important;
+}
+
+.first p{
+	margin: 15px;
+
+	}
+.fir{
+	width: 50%;
+}
+#ssc{
+   border: 1px solid black;
+   width: 20%;
+   margin: 5px;
+   display: inline-block;
+   border-radius: 10px;
+   padding-top: 10px;
+   padding-left: 15px;
+
+}
+
+#hsc{
+   border: 1px solid black;
+   width: 20%;
+   margin: 5px;
+   border-radius: 10px;
+   display: inline-block;
+   padding-left: 15px;
+}
+
+#eng{
+   border: 1px solid black;
+   border-radius: 10px;
+   width: 20%;
+   padding-left: 15px;
+   margin: 5px;
+   display: inline-block;
+}
